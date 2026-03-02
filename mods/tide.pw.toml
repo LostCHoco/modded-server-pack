@@ -1,0 +1,13 @@
+name = "Tide 2"
+filename = "tide-fabric-1.21.1-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/die1AF7i/versions/jSHnEpEZ/tide-fabric-1.21.1-2.0.3.jar"
+hash-format = "sha512"
+hash = "5859bdb36e6870a25c71a8ef6926d248daee4a9c2e1bcded15b701c65155d5df3b63fd843a6a2d502cfe5eea15f147c275c4b748cdfb695c7395ca90edca6f74"
+
+[update]
+[update.modrinth]
+mod-id = "die1AF7i"
+version = "jSHnEpEZ"
