@@ -1,0 +1,13 @@
+name = "Better Player Locator Bar"
+filename = "better-player-locator-bar-1.1.1-fabric+1.21(.1)mc.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SwzINh6N/versions/NRV1aSth/better-player-locator-bar-1.1.1-fabric%2B1.21%28.1%29mc.jar"
+hash-format = "sha512"
+hash = "650a3e1d6ea0275e838377ede582cc51cde6a0a68d4e6a7a0d600f21696cebc6b0767ff43a57a5b707355e642c96f288b94e617acec6fab00ac75e039aba2cc8"
+
+[update]
+[update.modrinth]
+mod-id = "SwzINh6N"
+version = "NRV1aSth"

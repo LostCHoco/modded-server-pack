@@ -46,6 +46,11 @@ hash = "a422ef6a7f82a953641937ef746ee775788d91a219794fc0d4563bbd5c22c947"
 metafile = true
 
 [[files]]
+file = "mods/bplb.pw.toml"
+hash = "47d97f324ddaad495c562a51fb4be387ee4211da8ca930544a95762b83946db2"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "0c345c80310a4bd58c757e43d6060338a85d34eaffcb674a6e9cbf22ecbc9cb8"
 metafile = true
@@ -233,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "f89967ea9150d6e5371057dc31fc8b8180c79808410ee6318088fcf78a16f58f"
+metafile = true
+
+[[files]]
+file = "mods/playerfinder.pw.toml"
+hash = "ec8cdb5f9a09268e56ce0acad7a5c484df3fbaa7d56d4113a1df57d70be63b25"
 metafile = true
 
 [[files]]
