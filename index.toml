@@ -1,9 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/additional-structures.pw.toml"
-hash = "86364ddf4303cb39f92bf9b45578ad2ef04f8da58de00858207b57668a34dd8e"
-metafile = true
+file = "docs/note/mod-investigation-12.md"
+hash = "cda715619ec3f66d88dbb3066021e5ebfdc565d069b9c07d9741bcb8a5958dcf"
 
 [[files]]
 file = "mods/aether.pw.toml"
@@ -43,11 +42,6 @@ metafile = true
 [[files]]
 file = "mods/better-combat.pw.toml"
 hash = "d8f4cdc8afe5541c4e2da796f9fb04d3f60bb24a7c79762eb6df5e0d7831e7eb"
-metafile = true
-
-[[files]]
-file = "mods/biomes-o-plenty.pw.toml"
-hash = "ddbb4bf26d15027847e52f5b30479470299b9a8c687697309f0535d658b9944b"
 metafile = true
 
 [[files]]
@@ -156,11 +150,6 @@ hash = "fe2682e6dbdd4350863e1fcd3f5f211fb437cf7791539bedd50779745beb5232"
 metafile = true
 
 [[files]]
-file = "mods/glitchcore.pw.toml"
-hash = "a104f2f6044d43bbc5a5badc6f589b2f6f5a1b9c9e47e00dfbad5061aa3b51f4"
-metafile = true
-
-[[files]]
 file = "mods/illager-invasion.pw.toml"
 hash = "5b2241365555857a9878a938b6ee80210c02d4193468a58a253ae4c10b2b4762"
 metafile = true
@@ -226,11 +215,6 @@ hash = "2d906d3bf073103930b304d7b6a6356ba9565a930ebea5dfa3db6fcdf54082f9"
 metafile = true
 
 [[files]]
-file = "mods/luckperms.pw.toml"
-hash = "88b5510e39cdc8ca356d54bc436edc777d5eafc03203a8724784183408fe6792"
-metafile = true
-
-[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "64a76f06453440a51ad0f51a27904144987527dcfede6f186c0eba93e1d92497"
 metafile = true
@@ -261,11 +245,6 @@ hash = "6803e0debba4fb27c735ccb139d26ae4c7744b8a7d2ac500d4f56b1d411faeea"
 metafile = true
 
 [[files]]
-file = "mods/many-more-ores-and-crafts.pw.toml"
-hash = "855f1f18824315cd22b04d7cfb229c99aa0d3f8998fa575f47f2233684d2fda8"
-metafile = true
-
-[[files]]
 file = "mods/minecells.pw.toml"
 hash = "0089a2b80eb26046ef2b867173047046cab1b53a70ed765a0148edba0f647726"
 metafile = true
@@ -273,11 +252,6 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "b9651d06e56ad51c1cdcf4b03b6a34328b7dc941f263ff92b189ee26a47cc224"
-metafile = true
-
-[[files]]
-file = "mods/modonomicon.pw.toml"
-hash = "9dd87a4d86aa1867419e36ed263c7a5803d7f7817abf5b458ee3101bf0e3b25b"
 metafile = true
 
 [[files]]
@@ -308,11 +282,6 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "f89967ea9150d6e5371057dc31fc8b8180c79808410ee6318088fcf78a16f58f"
-metafile = true
-
-[[files]]
-file = "mods/playerfinder.pw.toml"
-hash = "ec8cdb5f9a09268e56ce0acad7a5c484df3fbaa7d56d4113a1df57d70be63b25"
 metafile = true
 
 [[files]]
@@ -351,11 +320,6 @@ hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
 metafile = true
 
 [[files]]
-file = "mods/revelationary.pw.toml"
-hash = "0b25da65d50ae21fed48187f30a1f402e796bc8b6211f5e6f4910295df624069"
-metafile = true
-
-[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "15f247429100c92dec4e69697c94e39c0dd865251310e18bac7f3bb33c841186"
 metafile = true
@@ -371,11 +335,6 @@ hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
 metafile = true
 
 [[files]]
-file = "mods/spectrum.pw.toml"
-hash = "529a4dea81dc871fa30c9f0429831840cf002f470403cf8b5d5233d287572a68"
-metafile = true
-
-[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "d6bd6f926076809bb9720e44ec970fde84336763485c82d546a5ae0999cfe73f"
 metafile = true
@@ -383,11 +342,6 @@ metafile = true
 [[files]]
 file = "mods/techreborn.pw.toml"
 hash = "9025e5c9f5032ed316208c509e44f7f3e93d3eb5f3a9379a78eda815ff643acc"
-metafile = true
-
-[[files]]
-file = "mods/terrablender.pw.toml"
-hash = "e35593590fe988653baebae4638f6c93b5d822351274955cc1288b34fe5429fe"
 metafile = true
 
 [[files]]
